@@ -28,10 +28,10 @@
 
 <div align="center"> 
 <h2 align="left">Connect with me</h2>
-  <a href="mailto:rg37090@gmail.com">
+  <a href="mailto:souravnandi1757@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/mukesh-gupta-0299b628a" target="_blank">
+  <a href="https://www.linkedin.com/in/sourav-nandi-96113b290" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://personal-portfolio-website-five-blue.vercel.app" target="_blank">
